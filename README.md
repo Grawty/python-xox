@@ -14,7 +14,6 @@ ai_player = 'O'
 |  | KEY  |
 | ------------ | ------------ |
 | Restart  |  R |
-|  Select |  ENTER |
 
 ------------
 
